@@ -45,7 +45,7 @@ More documentation coming soon.
 
 ## Contributing
 
-Feel free to submit issues and pull requests at https://bitbucket.org/noveltylab/ht-client-python/
+Feel free to submit issues and pull requests at https://github.com/ajsb85/node-module-holytransaction/issues
 
 ## Credits
 
