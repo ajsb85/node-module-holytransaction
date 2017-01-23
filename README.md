@@ -1,6 +1,8 @@
 HolyTransaction node client
 ==================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/node-module-holytransaction.svg)](https://greenkeeper.io/)
+
 Node Module for the HolyTransaction.com API
 This is initial release intended for use by several early adopters.
 If you are interested in using HolyTransaction cryptocurrency platform in your project please register at
